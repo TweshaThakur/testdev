@@ -1,0 +1,6 @@
+ hi there
+its a new file
+im learniing git diff 
+and doing a test to see what different changes are there in 
+file2 and dffile
+in the statging area
